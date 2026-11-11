@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://jf-topografia.vercel.app/sitemap.xml
+Sitemap: https://jftopografia.vercel.app/sitemap.xml
